@@ -1,10 +1,10 @@
-# Ready-made module template for Opencart 3 for Linux
+# Ready-made module template for Opencart 2.3 for Linux
 
 ### How to use?
 
 ##### Copy data to your server
 ```
-git clone https://github.com/manwhocode/Mod_3.git
+git clone https://github.com/manwhocode/Mod_2.3.git
 ```
 
 ##### Go to the file folder
@@ -48,4 +48,3 @@ locale-gen en_US.UTF-8
 dpkg-reconfigure locales
 ```
 
-# Mod_2.3
